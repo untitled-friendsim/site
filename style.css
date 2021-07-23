@@ -4,7 +4,6 @@
     align-items: center;
     justify-content: center;
     font-family: monospace;
-    color: #ff3401;
     font-size: 48;
 }
 
@@ -13,5 +12,5 @@
 }
 
 body {
-    background-color: #242424
+    background-color: #111111;
 } 
